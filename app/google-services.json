@@ -1,0 +1,175 @@
+{
+  "project_info": {
+    "project_number": "161864388438",
+    "firebase_url": "https://mensajero-7802b.firebaseio.com",
+    "project_id": "mensajero-7802b",
+    "storage_bucket": "mensajero-7802b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161864388438:android:05518e755c62887f",
+        "android_client_info": {
+          "package_name": "com.mensajero.equipo.mensajero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161864388438-mvisgtlbbl39dtohepkm8oeqmk64o1g7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mensajero.equipo.mensajero",
+            "certificate_hash": "04456478467e5e0058995a8c04d3577129669cd9"
+          }
+        },
+        {
+          "client_id": "161864388438-9t1rt8c2f7lajoana4t8lpakbacjsncl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejFWaqP6dWR6Z2tDD44QNMhXjc7ukGHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161864388438-9t1rt8c2f7lajoana4t8lpakbacjsncl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161864388438:android:65824f53fa92105d",
+        "android_client_info": {
+          "package_name": "mensajero.mensajerobike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161864388438-b3rtc6lsjo58bq1p5uom9vonlrq6v36j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mensajero.mensajerobike",
+            "certificate_hash": "d265c8544457af8afa4a49bc568d96550b466d8e"
+          }
+        },
+        {
+          "client_id": "161864388438-9t1rt8c2f7lajoana4t8lpakbacjsncl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejFWaqP6dWR6Z2tDD44QNMhXjc7ukGHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161864388438-9t1rt8c2f7lajoana4t8lpakbacjsncl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161864388438:android:a3a7fef2f8028b5c",
+        "android_client_info": {
+          "package_name": "mensajero.mensajerogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161864388438-46hve89vbacm4ps7pjpav8n4ic7f430u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mensajero.mensajerogo",
+            "certificate_hash": "e71dde4c65c8c6c098ec6f3211e103c3a126a11f"
+          }
+        },
+        {
+          "client_id": "161864388438-62opobkdl5ckoq15d3f1s1hjfv99tmmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mensajero.mensajerogo",
+            "certificate_hash": "5f8823c4ecffc5960e5bc48e581d5f7c15b44ff0"
+          }
+        },
+        {
+          "client_id": "161864388438-c3q5nvbr0r2oomn7p0oi4t04g7u8fj1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mensajero.mensajerogo",
+            "certificate_hash": "29569c7af709bec3f5dd1b07e7d9e6fd554e8d45"
+          }
+        },
+        {
+          "client_id": "161864388438-e3f3c01mppq3og56mvri7fqnae4748if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mensajero.mensajerogo",
+            "certificate_hash": "77dc337dc27ab367997bdc2a45cc2a57c39cd8e8"
+          }
+        },
+        {
+          "client_id": "161864388438-e45b277j58a8llghi794cjr3probgvfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mensajero.mensajerogo",
+            "certificate_hash": "d265c8544457af8afa4a49bc568d96550b466d8e"
+          }
+        },
+        {
+          "client_id": "161864388438-9t1rt8c2f7lajoana4t8lpakbacjsncl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCejFWaqP6dWR6Z2tDD44QNMhXjc7ukGHM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161864388438-9t1rt8c2f7lajoana4t8lpakbacjsncl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

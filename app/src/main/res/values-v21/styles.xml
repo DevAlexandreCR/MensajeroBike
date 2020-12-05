@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- tema de los textinput para que sean blancos -->    <!-- -->
+    <style name="estiloTextInput" parent="Widget.Design.TextInputLayout">
+        <!-- Hint color and label color in FALSE state -->
+        <item name="android:textColorHint">@color/colorBlanco</item>
+        <item name="android:textSize">14sp</item>
+        <!-- Label color in TRUE state and bar color FALSE and TRUE State -->
+        <item name="colorAccent">@color/colorBlanco</item>
+        <item name="colorControlNormal">@color/colorBlanco</item>
+        <item name="colorControlActivated">@color/colorBlanco</item>
+    </style>
+    <style name="estilotolbar" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+    </style>
+</resources>

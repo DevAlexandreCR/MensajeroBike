@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_menu_perfil"
+            android:title="Mi Perfil" />
+        <item
+            android:id="@+id/nav_balance"
+            android:icon="@drawable/ic_menu_balances"
+            android:title="Balances" />
+        <item
+            android:id="@+id/nav_historial"
+            android:icon="@drawable/ic_menu_historial"
+            android:title="Mis viajes" />
+
+
+    </group>
+
+    <item android:title="Compartir">
+        <menu>
+            <item
+                android:id="@+id/nav_invitar"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Invitar a un amigo" />
+        </menu>
+    </item>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_cerrar"
+                android:icon="@drawable/ic_menu_cerrar"
+                android:title="Cerrar Sesion" />
+        </menu>
+    </item>
+
+</menu>

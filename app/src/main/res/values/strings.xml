@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mensajero Bike</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Opciones</string>
+
+    <string name="google_maps_key_DEBUG">AIzaSyC9X6hJ66-_Akm_UA56NsLDcXY_EdcEPIw</string>
+    <string name="google_maps_key_PROD">AIzaSyDfDCWsVDxuPjZJzR11x9V_RknoI9r0CPM</string>
+    <string name="title_activity_login">Iniciar Sesión</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Codigo de Verificacion</string>
+    <string name="action_sign_in">Iniciar Sesión</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Email no válido</string>
+    <string name="error_invalid_password">Codigo de verificacion muy corto</string>
+    <string name="error_incorrect_password">Codigo Incorrecto</string>
+    <string name="error_field_required">Campo obligatorio</string>
+    <string name="prompt_nombre">Nombre</string>
+    <string name="action_registrar_nombre">Nombre</string>
+    <string name="prompt_num_tel">Numero de teléfono</string>
+    <string name="action_registrar_numero">Numero</string>
+    <string name="nueva_cuenta"><u>¿No tienes cuenta? Regístrate</u></string>
+    <string name="si_cuenta"><u>¿Ya tienes cuenta? Inicia sesión</u></string>
+    <string name="action_registrarse">Registrarse</string>
+    <string name="error_invalid_nombre">el nombre demasiado corto</string>
+    <string name="error_invalid_numero">el telefono debe tener 10 digitos</string>
+    <string name="action_registrar_codigo">Ingrese Código</string>
+    <string name="prompt_num_codigo">Ingrese su Código</string>
+    <string name="action_registrar_placa">Ingrese Código</string>
+    <string name="prompt_num_placa">Ingrese Placas</string>
+    <string name="error_invalid_codigo">Codigo no es valido</string>
+    <string name="error_invalid_placa">La placa no es valida</string>
+    <string name="info_login">La app de Mensajero para conductores de motos.\n  Ciudades disponibles: Popayán.</string>
+
+    <string name="facebook_app_id">2169764879933988</string>
+    <string name="fb_login_protocol_scheme">fb2169764879933988</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="texto_iniciar_chat"><u>Iniciar chat con usuario</u></string>
+</resources>
